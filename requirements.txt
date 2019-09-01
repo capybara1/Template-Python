@@ -1,2 +1,6 @@
 pre-commit
+black
+blacken-docs
+pylint
+pylint-venv
 invoke
